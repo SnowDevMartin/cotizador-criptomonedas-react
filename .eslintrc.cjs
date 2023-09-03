@@ -16,5 +16,6 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    "no-unused-vars": ["error", { "vars": "none", "args": "after-used", "ignoreRestSiblings": true }],
   },
 }
