@@ -8,7 +8,7 @@ const MensajeError = styled.p`
     text-transform: uppercase;
     font-weight: 700;
     text-align: center;
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lato', sans-serif;
 `
 
 const Error = ({children}) => {
