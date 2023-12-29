@@ -13,7 +13,7 @@ Durante el desarrollo de este proyecto, nos sumergimos en el aprendizaje de Styl
 
 ## 🚀 Despliegue
 
-El proyecto se encuentra desplegado y puede ser accedido 🌐 [aquí](https://cotizador-criptomonedas-usuario.vercel.app/).
+El proyecto se encuentra desplegado y puede ser accedido 🌐 [aquí](https://cotizador-criptomonedas-react-dcmc.vercel.app/).
 
 ## 🔧 Instrucciones de Uso
 Si no solo quieres ver el proyecto funcionando con el enlace anterior, puedes descargar el repositorio y hacerlo funcionar/editar localmente.
