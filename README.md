@@ -1,5 +1,7 @@
 # 💸 Cotizador Criptomonedas React
 
+Este mini proyecto es parte del curso 🎓 de Udemy impartido por Juan Pablo De la Torre Valdez sobre React.
+
 ## Contenido del Curso
 
 Durante el desarrollo de este proyecto, nos sumergimos en el aprendizaje de Styled Components para el estilo de la aplicación y la creación de custom hooks para gestionar lógica reutilizable. Además, exploramos cómo realizar consultas a una API para obtener información en tiempo real sobre cotizaciones de criptomonedas.
