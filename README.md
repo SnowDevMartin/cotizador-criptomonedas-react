@@ -9,6 +9,7 @@ Durante el desarrollo de este proyecto, nos sumergimos en el aprendizaje de Styl
 ## 🛠️ Herramientas Utilizadas
 
 - **React**
+- **Vite**
 - **Styled Components**
 - **Custom Hooks**
 - **Consulta a una API de Criptomonedas**
